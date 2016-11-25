@@ -1,1 +1,1 @@
-This is my conflict folder. 
+Blah Blah BLah new conflict.
