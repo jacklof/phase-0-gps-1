@@ -1,0 +1,10 @@
+What Git concepts were you struggling with prior to the GPS session?
+	-I was struggling with branching, to be honest. But when John and I ran into a couple of different merge conflicts, we had to start over more than once and I truly got the hang of branching, adding, committing, and merging through repetition. 
+What concepts were clarified during the GPS?
+	-John and I worked through Github cloning, pull requests, and merging of branches. Even before we were supposed to make a merge conflict on purpose, we had merge conflict. We started over twice and walked through the steps slowly. On the third try we were able to see each mistake we made and complete the assignment. 
+What questions did you ask your pair and the guide?
+	-I asked John to speak out loud during his pairing and we would both work on talking as we were coding. Even though you share screens when you code, we both kept each other accountable by asking one another to talk out loud while we were coding to make sure we were always on the same page so when we ran into mistakes, it was easy to see if we were both confused by a concept. 
+What still confuses you about Git?
+	-Less confusing and more helpful is that when add, committing, or merging, Git will tell you why if it rejects a commit or a merge. It will also tell you when your save went through with Git status, which can be very helpful to double check your work. 
+How was your first experience of pairing in a GPS?
+	-I think pairing gives you the opportunity to have a safety blanket when you are learning a concept. It also allows you to go over material that you have learned but are not sure if you are 100% solid on the concepts. It felt nice, as a new coder, to have someone there to jump in if we were getting off track. I could also see that it could be a crutch for some people as well. 
